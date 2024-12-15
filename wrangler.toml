@@ -1,0 +1,12 @@
+name = "telegram-cloudflare-bot"
+type = "javascript"
+
+account_id = "YOUR_CLOUDFLARE_ACCOUNT_ID"
+workers_dev = true
+
+[env.production]
+route = ""
+zone_id = ""
+
+[vars]
+TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
