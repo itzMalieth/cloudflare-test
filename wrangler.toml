@@ -9,4 +9,4 @@ route = ""
 zone_id = ""
 
 [vars]
-TELEGRAM_BOT_TOKEN = "6844595438:AAH-XFWagXnoXZclSm36ICf_hcLO7m1ewDw"
+TELEGRAM_BOT_TOKEN = "#"
